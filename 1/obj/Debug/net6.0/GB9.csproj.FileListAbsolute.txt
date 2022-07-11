@@ -1,0 +1,15 @@
+C:\Users\G1Sup\Desktop\Семинары\GB9\bin\Debug\net6.0\GB9.exe
+C:\Users\G1Sup\Desktop\Семинары\GB9\bin\Debug\net6.0\GB9.deps.json
+C:\Users\G1Sup\Desktop\Семинары\GB9\bin\Debug\net6.0\GB9.runtimeconfig.json
+C:\Users\G1Sup\Desktop\Семинары\GB9\bin\Debug\net6.0\GB9.dll
+C:\Users\G1Sup\Desktop\Семинары\GB9\bin\Debug\net6.0\GB9.pdb
+C:\Users\G1Sup\Desktop\Семинары\GB9\obj\Debug\net6.0\GB9.csproj.AssemblyReference.cache
+C:\Users\G1Sup\Desktop\Семинары\GB9\obj\Debug\net6.0\GB9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G1Sup\Desktop\Семинары\GB9\obj\Debug\net6.0\GB9.AssemblyInfoInputs.cache
+C:\Users\G1Sup\Desktop\Семинары\GB9\obj\Debug\net6.0\GB9.AssemblyInfo.cs
+C:\Users\G1Sup\Desktop\Семинары\GB9\obj\Debug\net6.0\GB9.csproj.CoreCompileInputs.cache
+C:\Users\G1Sup\Desktop\Семинары\GB9\obj\Debug\net6.0\GB9.dll
+C:\Users\G1Sup\Desktop\Семинары\GB9\obj\Debug\net6.0\refint\GB9.dll
+C:\Users\G1Sup\Desktop\Семинары\GB9\obj\Debug\net6.0\GB9.pdb
+C:\Users\G1Sup\Desktop\Семинары\GB9\obj\Debug\net6.0\GB9.genruntimeconfig.cache
+C:\Users\G1Sup\Desktop\Семинары\GB9\obj\Debug\net6.0\ref\GB9.dll
