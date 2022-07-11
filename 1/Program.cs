@@ -1,5 +1,5 @@
 ﻿Console.Write("Input number: ");
-int number = int.Parse(Console.ReadLine());
+int number = int.Parse(Console.ReadLine());  // Здесь Parse преобразует число из string в int
 Console.WriteLine(NaturalNumber(number));
 
 int NaturalNumber(int number)
